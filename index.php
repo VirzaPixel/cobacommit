@@ -1,5 +1,5 @@
 <?php
 
-echo "Fathin J nya nonchalant";
+echo "Fathin J nya junior";
 
 ?>
